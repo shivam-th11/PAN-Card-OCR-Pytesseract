@@ -1,8 +1,8 @@
 
 # PAN card OCR with pytesseract
 
-It will read any pan card image and will generate PAN number, Name, Father's Name and DOB with the help of Opencv and Pytesseract.
- 
+
+Leverage the power of OpenCV and Pytesseract to effortlessly extract PAN card and adhar card details. This innovative solution utilizes advanced algorithms to interpret images, generating crucial information such as PAN number, Name, Father's Name, and Date of Birth. Experience streamlined processes and enhanced productivity with automated data extraction from PAN card images. 
 
 
 ## Requirements
